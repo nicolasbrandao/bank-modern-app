@@ -1,2 +1,2 @@
 # bank-modern-app
- Morden bank app with React and tailwind
+ Modern bank app with React and tailwind
